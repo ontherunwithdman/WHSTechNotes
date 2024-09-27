@@ -7,3 +7,5 @@ A video game I really enjoy playing is madden. I don't even play football but it
 No not really. I got little confused but you shoed me what to do. Creating the repository and journal were a little confusing.
 # September 17, 2024
 This is a free week.
+# September 26, 2024
+Following instructions exactly as they are given is important when learning how to code because it helps to ensure that the code is written correctly and that it will work as intended. Precision is important in coding because even a small mistake can cause the code to fail. If steps or details are missed in coding, the code may not work as intended.
