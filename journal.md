@@ -32,3 +32,7 @@ Coding can be applied to industries that aren't directly related to technology b
 Coding can enhance creativity by allowing you to experiment with different ideas and solutions. It can also foster collaboration by providing a common language for people to communicate and work together on projects.
 
 For example, a graphic designer could use code to create interactive website designs, or a musician could use code to create new sounds and music.
+# October 21, 2024
+Artificial intelligence (AI) is transforming many industries, including healthcare, education, and business. AI can improve efficiency and innovation in these industries. For example, AI can be used to develop new drugs and treatments, personalize education, and automate tasks in businesses. AI can also help to improve the quality of life for people with disabilities.
+
+However, AI also poses some risks. For example, AI could lead to job automation, which could result in widespread unemployment. AI could also be used to create biased algorithms, which could discriminate against certain groups of people. Additionally, AI could be used to create cybersecurity threats, such as malware and phishing attacks.
