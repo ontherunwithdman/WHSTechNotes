@@ -36,10 +36,10 @@ For example, a graphic designer could use code to create interactive website des
 Artificial intelligence (AI) is transforming many industries, including healthcare, education, and business. AI can improve efficiency and innovation in these industries. For example, AI can be used to develop new drugs and treatments, personalize education, and automate tasks in businesses. AI can also help to improve the quality of life for people with disabilities.
 
 However, AI also poses some risks. For example, AI could lead to job automation, which could result in widespread unemployment. AI could also be used to create biased algorithms, which could discriminate against certain groups of people. Additionally, AI could be used to create cybersecurity threats, such as malware and phishing attacks.
-# October 28 
+# October 28, 2024 
 Technology plays a huge role in elections today. One positive impact is that it can make voting more accessible and convenient. However, technology also presents challenges. One concern is the potential for voter fraud. Another concern is the spread of misinformation and disinformation online.
 Overall, technology has a significant impact on elections, both positive and negative. It is important to be aware of these impacts and to work to ensure that technology is used in a way that promotes fair and democratic elections.
-# November 4 
+# November 4, 2024
 It is important to protect your personal and sensitive information when publishing online because it can be used in ways you did not intend. For example, someone could use your personal information to steal your identity or to harass you.
 
 Here are some steps you can take to ensure that the information you share on platforms like GitHub or social media remains secure:
