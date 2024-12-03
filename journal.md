@@ -24,7 +24,7 @@ Every day, computer science plays a huge role in my routine. From the moment I w
 5. Career Growth: Software developers can advance to senior developer roles, lead developer, or software architect positions. With experience, they can also move into project management, product management, or executive roles such as Chief Technology Officer (CTO).
 
 6. Reflection: If you enjoy problem-solving, coding, and creating software applications, a career as a software developer could align well with your interests and goals in computer science. It offers a dynamic and evolving work environment with plenty of opportunities for growth and specialization.
-   # October 15, 2024
+# October 15, 2024
    Coding can improve problem-solving skills by teaching you how to break down complex problems into smaller, more manageable steps. It also helps you to think logically and systematically, which is essential for finding solutions to any problem.
 
 Coding can be applied to industries that aren't directly related to technology by automating tasks, analyzing data, and creating new tools. For example, a doctor could use code to create a program that helps them diagnose patients more accurately, or a financial analyst could use code to build a model that predicts market trends.
