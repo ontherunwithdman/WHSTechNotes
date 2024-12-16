@@ -65,3 +65,11 @@ One recent development in artificial intelligence that has caught my attention i
 However, there are also concerns about the misuse of this technology, such as generating deepfakes or spreading misinformation. Ethical considerations include ensuring transparency in AI-generated content and addressing issues of bias and fairness in AI algorithms. Additionally, there is the question of job displacement, as AI could potentially replace human workers in certain roles.
 
 In my future career, I could see generative AI being used to enhance creativity and productivity. For example, in marketing, AI could help generate innovative campaign ideas or create engaging content for social media. It will be important to stay informed about these developments and consider the ethical implications as we integrate AI into our daily.
+# December 9, 2024
+The term "brain rot" refers to the negative impact of excessive digital consumption on mental well-being and intellectual capacity. It suggests that spending too much time online, particularly on trivial content, can hinder our ability to engage in meaningful pursuits and develop our cognitive abilities.
+
+The runner-up words "slop" and "lore" reflect the duality of technology's influence on our lives. "Slop" represents the low-quality, often AI-generated content that can be overwhelming and distracting, while "lore" highlights the positive aspects of technology, such as its ability to foster creativity and preserve traditions through storytelling and digital spaces.
+
+Balancing meaningful engagement with technology while avoiding "brain rot" is a challenge. It requires mindful consumption, prioritizing quality content over quantity, and actively seeking out experiences that stimulate our minds and promote our well-being. 
+# December 16, 2024
+Yes im looking foward to winter break
