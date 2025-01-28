@@ -87,3 +87,11 @@ The potential nationwide ban of TikTok in the United States due to national secu
 To address security concerns while continuing to operate globally, companies like TikTok could implement stricter data privacy measures, such as end-to-end encryption and more transparent data handling practices. By doing so, they can build trust with both users and governments. This situation highlights the importance of prioritizing data privacy and security in app development. As developers, it's crucial to integrate robust security features from the outset to protect user data and comply with regulatory standards.
 
 If I were a developer at TikTok working on a new feature to increase user privacy, I would implement a feature that allows users to have more control over their data. This could include options to easily manage and delete their personal information, as well as detailed privacy settings to customize what data is shared and with whom. Such a feature would empower users and demonstrate a commitment to their privacy, potentially alleviating some of the concerns that lead to government intervention in the first place.
+# January 27, 2025
+
+ | Name     | Car | Mistake |
+ | :------- | :-- | :------ |
+ | Jimmy    |  Honda Civic   |    Drilled Hole In Gas Tank     |
+ | Kayla    |  GMC Sierra   |    Fixed Wrong Problem     |
+ | Bart     |   Toyota Corolla  |    Left Stains On Carpet     |
+ | Harrison |   Subaru Forester  |    Left The Oil Cap Off     |
